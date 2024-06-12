@@ -1,0 +1,19 @@
+{
+  "canisters": {
+    "Note_frontend": {
+      "source": [
+        "src/Note_frontend/dist"
+      ],
+      "type": "assets",
+      "workspace": "Note_frontend"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
